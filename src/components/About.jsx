@@ -37,7 +37,7 @@ const About = () => {
           <div className="relative group">
             <div className="relative w-64 h-64 mx-auto">
               <img 
-                src="/profile.jpg" 
+                src="src\profile.jpg" 
                 alt="Devesh Bansal" 
                 className="rounded-lg object-cover w-full h-full"
               />
